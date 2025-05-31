@@ -1,4 +1,4 @@
-# James API
+# DOCKER-API
 
 API REST para gerenciamento de usuários, desenvolvida com Spring Boot.
 
