@@ -17,7 +17,7 @@ API REST para gerenciamento de usuários, desenvolvida com Spring Boot.
    ./mvnw clean package
 
    ```markdown
-# James API
+# API
 
 API REST para gerenciamento de usuários, desenvolvida com Spring Boot.
 
